@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zeynepergun
-- 👀 I’m interested in ...
+- 👀 I’m interested in Java, Html,Css 
 - 🌱 I’m currently learning ...
 
 
